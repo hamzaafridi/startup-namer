@@ -1,4 +1,4 @@
-name: Flutter Web
+name: startup_namer
 on: [push]
 jobs:
   build:
